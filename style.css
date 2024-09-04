@@ -120,7 +120,7 @@ li {
         display: none;
     }
 
-    .button {
+    .icon-button {
         display: inline-block;
         padding: 10px 20px;
         margin: 10px;
@@ -141,7 +141,7 @@ li {
         text-align: left;
     }
 
-    #toggle:checked+.button+.menu-content {
+    #toggle:checked+.icon-button+.menu-content {
         display: block;
     }
 
